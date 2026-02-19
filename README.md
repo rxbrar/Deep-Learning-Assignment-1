@@ -1,4 +1,4 @@
-GitHub Repository Links:-
+GitHub Repository Links:- https://github.com/rxbrar/Deep-Learning.git
 
 # Deep Learning Assignment
 
